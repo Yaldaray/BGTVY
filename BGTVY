@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",24 Kitchen
+#EXTINF:0 tvg-country="BG" tvg-logo="🎶" group-title="Undefined",24 Kitchen
 https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AMC
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8?checkedby:hlscat.com
