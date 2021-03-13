@@ -32,6 +32,8 @@ https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8?checkedby:hlscat.com
 https://tv.city.bg/play/tshls/citytv/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",DIEMA
 https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0,BG: BTV HD
+http://84.43.207.130/btvhd/btvhd.m3u8
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",DM SAT
 https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Discovery
